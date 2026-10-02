@@ -13,7 +13,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/methsara-sayuranga-79660b412?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30" /></a>
   <a href="https://github.com" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="30" /></a>
   <a href="https://twitter.com" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="30" /></a>
 </p>
