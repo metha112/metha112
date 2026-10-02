@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Metha!</h1>
+<h1 align="center">Hi 👋, I'm Methsara!</h1>
 <h3 align="center">A passionate Junior Software Engineer from Sri Lanka</h3>
 
 <p align="center">
