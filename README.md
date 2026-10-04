@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Junior Software Engineer from Sri Lanka</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=metha112&color=brightgreen" alt="Profile views" />
   <a href="https://www.buymeacoffee.com/metha112" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" alt="Buy Me A Coffee" /></a>
 </p>
 
