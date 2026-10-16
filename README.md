@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/methsara-sayuranga-79660b412?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30" /></a>
   <a href="https://github.com" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="30" /></a>
-  <a href="https://wa.me/qr/PRJUGK4J6SFGC1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="30" width="30" /></a>
+  <a href="https://wa.me/0770110668" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="30" width="30" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
