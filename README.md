@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **projects**
 - 🌱 I’m currently learning **new technologies**
 - 💬 Ask me about **programming, web development**
-- 📫 How to reach me: You can write me on [linkedin](https://linkedin.com) or by [mail](mailto:metha@gmail.com)
+- 📫 How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/methsara-sayuranga-79660b412?utm_source=share_via&utm_content=profile&utm_medium=member_android) or by [mail](mailto:sayurangamethsara110@gmail.com)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
